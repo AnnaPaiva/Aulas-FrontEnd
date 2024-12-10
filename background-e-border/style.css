@@ -1,0 +1,36 @@
+body {
+    background-color: #8c8cf3;
+}
+
+header {
+    background-color: #ffe4c4;
+    color: #454545;
+}
+
+main {
+    background-color: #e5e5e5;
+    border-width: 4px;
+    border-color: #1c1e1d;
+    border-style: solid;
+}
+
+.box1 {
+    background-color: #169;
+    border: 2px solid #1c1e1d;
+    width: 400px;
+    height: 64px;
+}
+
+.box2 {
+    background-image: linear-gradient(20deg, #2e2e2e, #aa4a4a);
+    width: 400px;
+    height: 64px;
+    border: 2px double #c2c;
+}
+.box3{
+    background-color: #0077ff;
+    border: 2px solid #1c1a1d;
+    border-radius: %;
+    width: 400px;
+    height: 64px;
+}
