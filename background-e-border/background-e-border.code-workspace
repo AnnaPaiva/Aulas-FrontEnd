@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Box-Model"
+		},
+		{
+			"path": "../Display"
+		},
+		{
+			"path": "../Exercicio1"
+		},
+		{
+			"path": "../Exercicio2"
+		},
+		{
+			"path": "../Meu-primeiro-css"
+		},
+		{
+			"path": "../Seletores-Basicos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "background-e-border"
+	}
+}
